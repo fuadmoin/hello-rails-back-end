@@ -125,7 +125,7 @@ Install this project with:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, [issues](https://github.com/fuadmoin/hello-rails-react/issues), and feature requests are welcome!
+Contributions, [issues](https://github.com/fuadmoin/hello-rails-back-end/issues), and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
